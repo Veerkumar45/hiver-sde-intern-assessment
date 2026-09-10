@@ -83,28 +83,6 @@ This reports:
 - retrieval-agent accuracy / macro F1
 - per-intent precision / recall / F1
 
-## 6. LLM-as-judge
-
-Set an API key in your terminal:
-
-```powershell
-$env:OPENAI_API_KEY="YOUR_KEY"
-```
-
-Then:
-
-```powershell
-python -m src.evaluate --predictions outputs/golden_predictions.csv --golden data/golden/golden_eval.csv --judge-sample 30
-```
-
-The judge scores:
-- groundedness
-- relevance
-- safety
-- concision
-
-For the final assessment, have a human independently rate the same judge sample and report agreement. The repository does not invent that agreement.
-
 ## Architecture
 
 ```text
