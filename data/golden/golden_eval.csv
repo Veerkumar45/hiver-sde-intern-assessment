@@ -1,0 +1,206 @@
+﻿id,tweet_id,text,intent,reply_quality_human_0_2,escalation_human,notes
+1,5814,@AppleSupport ok cool,device_issue_other,,FALSE,Generic acknowledgement; no actionable issue stated.
+2,57515,Apps constantly freezing on my 8 Plus today.... anyone else????? @AppleSupport @115858,update_performance_or_crash,,FALSE,Apps are repeatedly freezing on iPhone 8 Plus.
+3,36087,"@AppleSupport No, I haven’t... but I checked it on my MacBook (Mail app), still permanently deleted.",app_or_media_behavior,,TRUE,Mail app reports a message remaining permanently deleted.
+4,33371,@AppleSupport The latest one.,device_issue_other,,FALSE,Only says 'latest one'; insufficient issue detail.
+5,5848,@AppleSupport 11.0.3,device_issue_other,,FALSE,Only provides an iOS version number.
+6,14315,@115858 there is a bug when we type the capital letter i ... fix it it’s annoying.,app_or_media_behavior,,FALSE,Keyboard/text rendering bug when typing capital I.
+7,53543,@AppleSupport Seems to be working for Now after repairing,device_issue_other,,FALSE,Issue appears resolved after repair.
+8,11107,.@AppleSupport .@115858 haven’t been able to type I️ since the new update https://t.co/BtR51UmAzb,app_or_media_behavior,,FALSE,Typing I stopped working after the update.
+9,31933,Why do my tweets have hashtags and square question marks? I’m updated to the latest iOS 11.1 @115858 fix me. #apple https://t.co/XzauijV1pG,app_or_media_behavior,,FALSE,Text/keyboard rendering shows hashtags and square question marks.
+10,26698,"It’s an important letter, @115858. Fix it.",app_or_media_behavior,,FALSE,Keyboard/text rendering issue with the letter I.
+11,58798,@AppleSupport I order my phone at 3:01 27th get a confirmation from Best Buy I’m getting my phone on 11/3 now they said that’s not true!,device_issue_other,,TRUE,Order/delivery-date discrepancy requires order support.
+12,35281,@AppleSupport why is my alarm sound not working when on silent and volume on lock screen not working after the update??,device_issue_other,,FALSE,Alarm and volume behavior changed after an update.
+13,57512,So my iPhone is now F'D thanks @115858 iOS update #ios11update #shocking #nobattery,battery_drain,,FALSE,Phone battery is draining after the iOS update.
+14,12591,@AppleSupport It’s happening to a lot of my friends,app_or_media_behavior,,FALSE,Likely refers to the same widespread text-rendering issue; message is vague.
+15,35230,@AppleSupport I phone 6s and iOS 11,device_issue_other,,FALSE,Only identifies iPhone 6s and iOS 11 without a specific issue.
+16,23089,@AppleSupport It cuts on but only to the apple logo and then it turns off again and idk iOS 10,device_issue_other,,TRUE,Device boot-loop/shutdown behavior is severe and may require direct support.
+17,31454,"@AppleSupport Thanks! I guess I know the reason why.Wherever u put the assistive touch up,down,middle &amp; when pressed is also where the control center is.",app_or_media_behavior,,FALSE,AssistiveTouch/control-center interaction is behaving unexpectedly.
+18,43360,@115858 @AppleSupport  https://t.co/stullCoCpJ,device_issue_other,,TRUE,Image/link only; issue cannot be safely determined from text.
+19,36067,Tengo un problema con macos high Sierra y no tengo ni idea de como solucionarlo. @AppleSupport @119459 https://t.co/ZZPzd8fZAw,update_performance_or_crash,,FALSE,Reports a macOS High Sierra problem after the update.
+20,34597,@AppleSupport iMessage stopped working and won’t activate anymore—is that a problem on your side?,app_or_media_behavior,,FALSE,iMessage stopped working and will not activate.
+21,15472,@115858 I️ have I️ can I️ will THE FUCK BRO,app_or_media_behavior,,FALSE,Keyboard/text rendering issue involving the letter I.
+22,15467,@AppleSupport hi all. @115948 and settings apps keep crashing on iOS 11.1.2. See attached video. Is this a known issue? https://t.co/bjiEsXG7uG,update_performance_or_crash,,FALSE,Apps and Settings are crashing on iOS 11.1.2.
+23,31926,"@AppleSupport received this email which i believe happened to be a scammer, sender’s email is suspicious tho. Could u pls clarify this up? https://t.co/Lle0QVQaUP",account_or_verification,,TRUE,Suspicious/scam email requires security-oriented handling.
+24,50880,@AppleSupport  https://t.co/NAmOVlIDMr,device_issue_other,,TRUE,Link/image only; issue cannot be determined from text.
+25,52282,"@2855 @AppleSupport так ты и фоточки туда переносишь, бекапы?",app_or_media_behavior,,FALSE,Question about transferring photos/backups.
+26,40493,@AppleSupport Is it now GA? I thought it was still in beta,device_issue_other,,FALSE,Question about release status/beta availability.
+27,9182,"@AppleSupport Okay, I️ updated my phone the newest version",device_issue_other,,FALSE,Only reports completing a phone update.
+28,2659,Is anyone else having problems with there iPhone 7 saying no service? @115858 @115714,device_issue_other,,TRUE,iPhone 7 reports no cellular service.
+29,52983,Anybody else experiencing the @AppleSupport bug where the letter I turning into a weird set of glyphs? #Igate,app_or_media_behavior,,FALSE,Known text-rendering/keyboard glyph bug.
+30,42604,Hey @115858 and @applesupport how can I have 150gb of space left and be full at the same time?  #confused https://t.co/6lmQTll0pG,device_issue_other,,FALSE,Storage capacity appears inconsistent with available space.
+31,11641,"@AppleSupport Like this. Open the Multitasking screen, swiping up on the WhatsApp app to close it; as seen in the video. https://t.co/yeOErcAbIz",app_or_media_behavior,,FALSE,Question/description about closing WhatsApp from multitasking.
+32,58195,What the hell @115858 .. App Store won’t load after recent update.,app_or_media_behavior,,FALSE,App Store will not load after an update.
+33,35251,@123680 @115858 Omg me too! I thought I was tripping!,app_or_media_behavior,,FALSE,Vague agreement with another user's issue; likely app/text bug.
+34,58854,@AppleSupport it whirrs around slowly. Facebook won't load,app_or_media_behavior,,FALSE,Facebook will not load and is behaving slowly.
+35,5808,Y’all need to fix this now @115858,device_issue_other,,TRUE,Generic request to fix an unspecified problem; insufficient context.
+36,57508,I️ I I️ wtf is this @115858,app_or_media_behavior,,FALSE,Keyboard/text rendering issue.
+37,26700,Today would be a good day for @115858 to fix the “i” bug... I️,app_or_media_behavior,,FALSE,Explicitly refers to the 'i' bug.
+38,32421,@AppleSupport After it says verifying it restarts automatically,update_performance_or_crash,,TRUE,Device restarts automatically during verification.
+39,61068,@AppleSupport Have to assume this is a bug in the latest iOS update. The letter “I” keeps replacing to A [?]. Is there a fix coming? https://t.co/3hPW4dfgBZ,app_or_media_behavior,,FALSE,Letter I is replaced by a malformed symbol after the update.
+40,42621,@AppleSupport 11.1. Happening on my iPad as well so version number.,device_issue_other,,FALSE,Only supplies version information.
+41,48041,Hey @AppleSupport how does your operating system occupy almost 50% of my phone’s storage? https://t.co/yM3WDFCMD1,device_issue_other,,FALSE,Question about operating system storage usage.
+42,40553,@115858 my iPhone keeps muting itself for no reason? This is since I did the update??,device_issue_other,,FALSE,Phone mutes itself unexpectedly after an update.
+43,33361,"@123379 @115858 Yes, after the update I have to charge it several times a day. Irritating!",battery_drain,,FALSE,Battery requires several charges per day after the update.
+44,53490,"@115948 @AppleSupport Hey, I've discovered lots of incorrect versions of songs (single songs within whole otherwise correct albums) in Apple Music. There should probably be a way to flag instances of this for review. Kind of annoying. Thanks!",app_or_media_behavior,,FALSE,Incorrect song versions in Apple Music; requests review mechanism.
+45,14871,Also this question mark bullshit is dumb. Fix it @115858 ! https://t.co/bCaVM5Pe8o,app_or_media_behavior,,FALSE,Question-mark/symbol rendering bug.
+46,39628,@AppleSupport upgraded to iOS 11.1 today from 11.03 and iMessage has stopped working and will not activate. Suggestions?,app_or_media_behavior,,FALSE,iMessage stopped working and will not activate after iOS update.
+47,52962,"@AppleSupport, hey guys. Think I’m having a problem with my keyboard and can’t find a fix. Anytime I️ type “I️” like this, I️ get this auto https://t.co/0Rv2QkJQ53",app_or_media_behavior,,FALSE,Keyboard produces incorrect output when typing I.
+48,55132,Please can @115858 make an “are you sure” pop-up for when you try to close the music app? Thanks,app_or_media_behavior,,FALSE,Feature request for a confirmation prompt in Music.
+49,55939,"@AppleSupport I’m now on my second I watch, and have tried the reset&amp;restart my phone and I watch etc and still not solved any problems",device_issue_other,,TRUE,Second Apple Watch still has unresolved problems after reset/restart.
+50,13198,@AppleSupport Connect to*,device_issue_other,,FALSE,Fragmentary 'Connect to' message lacks enough context.
+51,57479,@115858 My Cinema Display doesn't work with My macbook touchbar using the correct adaptor. I tried in my office and it works. Any ideas?,device_issue_other,,TRUE,External display does not work with MacBook setup.
+52,14330,The amount of times my phone has froze since the newest update is ridiculous. @115858 get your shit together.,update_performance_or_crash,,FALSE,Phone has repeatedly frozen since the newest update.
+53,9180,"@AppleSupport I bought an iTunes gift card worth £15 a week ago, and the email still hasn’t come into my inbox to tell me the code. Helpppp",account_or_verification,,TRUE,Purchased gift card code/email has not arrived after a week.
+54,33384,"- what is up with the letter “eye” button @AppleSupport?! for like a 4 days now, the letter “eye” has been turning into this i️ 😐",app_or_media_behavior,,FALSE,Letter I rendering/keyboard bug.
+55,36109,@AppleSupport Can’t an iPhone 8 connect to a Bluetooth device using NFC?,device_issue_other,,FALSE,Question about Bluetooth/NFC connectivity.
+56,60288,Hey @AppleSupport why is it that every time I use the letter I it looks there’s a box like this “ I️ “?,app_or_media_behavior,,FALSE,Letter I renders as a box/symbol.
+57,26681,@AppleSupport tell me why the i keeps doing this stupid shit A with the boxed question mark make it stop,app_or_media_behavior,,FALSE,Letter I becomes malformed A/question-mark characters.
+58,59599,@AppleSupport my mac is stuck on mute.. please help me,device_issue_other,,TRUE,Mac is stuck on mute; audio issue remains unresolved.
+59,54474,This stupid update makes my phone die quicker 😑 @AppleSupport you guys are playing us! Smfh,battery_drain,,FALSE,Update is causing faster battery drain.
+60,23094,Dear @115948 @AppleSupport what happened to ‘Play Next’?,app_or_media_behavior,,FALSE,Question about missing Play Next behavior in Music.
+61,31866,"@115858 since we have update our phone we are facing many problem ringer is not working,network issue, phone hang problem. Poor update",update_performance_or_crash,,TRUE,"Multiple problems after update: ringer, network, and hangs."
+62,48037,@AppleSupport I can able sign in at that adress with my id,account_or_verification,,FALSE,Reports an Apple ID sign-in issue.
+63,15433,Anyone else having battery issues in IPhone? Degrading way to fast. @AppleSupport,battery_drain,,FALSE,Battery is degrading unusually quickly.
+64,41568,"@AppleSupport Keep seeing the letter I as ?, apps keep crashing, and it’s slower",update_performance_or_crash,,FALSE,"Apps crashing and device slowing, alongside text bug."
+65,33372,@AppleSupport Please fix your Siri on iOS 11 cuts out mid sentence it’s very annoying and it eats the battery like there’s no tomorrow!!!!,battery_drain,,FALSE,Siri cuts out and is also reported to consume excessive battery.
+66,52188,@127736 @AppleSupport I’m in the same boat. https://t.co/MlKN9Y8Iuv,device_issue_other,,TRUE,'Same boat' with no standalone issue details; context is insufficient.
+67,23130,"Dear @115858, you’re really rude for ruining the battery life on our phones with that last update.",battery_drain,,FALSE,Battery life complaint attributed to the update.
+68,21178,@115858 please stop making old operating systems extremely slow and buggy when the new phone comes out. I’ll get a new phone eventually but damn it just let me use the one I have now in peace and without freezing every ten seconds,update_performance_or_crash,,FALSE,Older device/OS is slow and freezing frequently.
+69,52275,"@AppleSupport Seems to turn on randomly while on a transit bus or lrt even though I tell it not to, as I’m not driving.",device_issue_other,,FALSE,Device appears to turn on unexpectedly in transit.
+70,12598,@AppleSupport Here is the problem https://t.co/tLi3hxIfJI,device_issue_other,,TRUE,Problem is provided only through an image/link.
+71,26679,WTF @115858 I️ put a text replacement for the letter “I “ and it keeps removing it 😡,app_or_media_behavior,,FALSE,Text replacement for I is being removed.
+72,44569,@AppleSupport I’ve just received this text message... is it a scam? https://t.co/iIz6799AeL,account_or_verification,,TRUE,User asks whether a received text message is a scam.
+73,40485,@AppleSupport is de update 4.2 niet voor de Apple watch 1?,device_issue_other,,FALSE,Question about Apple Watch update eligibility.
+74,11630,@115858 I just wanted to let you know that the new update is crap and it wastes my battery more than ever before.,battery_drain,,FALSE,New update is causing severe battery drain.
+75,39668,"PT1. @AppleSupport I pre-approved my iPhone X then ordered it at 301 am, your database is shipping the phone to a fake address due to a typo",account_or_verification,,TRUE,iPhone order is reportedly being shipped to an incorrect address.
+76,36664,Okay I️ thought it was just my phone @AppleSupport fix this shit with the letter EYE 😭 https://t.co/tkqnKp6VNl,app_or_media_behavior,,FALSE,Letter I rendering bug.
+77,31432,Hey @AppleSupport my keyboard is going haywire when I️ type I️ #help https://t.co/v7Tfc47sgK,app_or_media_behavior,,FALSE,Keyboard is malfunctioning when typing I.
+78,31945,"Yo @AppleSupport  what’s up with this glitch every time I️ try to type the letter “I️” 
+
+I",app_or_media_behavior,,FALSE,Typing I triggers a recurring symbol glitch.
+79,50838,@AppleSupport It was happening with all contacts. After two restarts and adjustmenten of time (again) it seems to be working flawless. Thank u 4 your time,device_issue_other,,FALSE,Issue appears resolved after restarts/time adjustment.
+80,61306,"@AppleSupport I’m doing the images on my laptop and transferring them to my phone, this was never an issue before, only started happening today",app_or_media_behavior,,FALSE,Photo transfer from laptop to phone has newly stopped working.
+81,52304,@AppleSupport I’ve forwarded it to the phishing email account that you guys have.,account_or_verification,,FALSE,User forwarded a suspected phishing message to Apple's reporting address.
+82,34630,@AppleSupport Will do thanks 👍,device_issue_other,,FALSE,Generic acknowledgement with no issue details.
+83,55121,@AppleSupport @applesupport can your team figure out the I️ issue. Or will l continue to have to use lower case l’s for them for a while? Let’s start here,app_or_media_behavior,,FALSE,Explicitly asks about the I text-rendering issue.
+84,32412,"@AppleSupport pls let folks downgrade to ios 10.3.3, been an apple fanboy but iOS 11 is the worst i cant put up with this glitchy OS anymore",update_performance_or_crash,,FALSE,Complains about iOS 11 glitches and requests downgrade.
+85,32416,@AppleSupport iOS 11 is so slow on my iPhone 5S. For example the camera app takes 5-10 seconds before it can take a photo. What gives?🤦‍♂️,update_performance_or_crash,,FALSE,iOS 11 is slow and camera takes several seconds to respond.
+86,5825,"@AppleSupport excuse me, can someone explain to me why when I type an “I️” alone I️ get an A and a question mark???????",app_or_media_behavior,,FALSE,Letter I produces an A/question mark.
+87,42596,"@AppleSupport Thank you, iOS 11.1",device_issue_other,,FALSE,Only thanks/mentions iOS 11.1.
+88,52314,Aye @115858 that update yesterday didn’t fix the battery issue at all. Y’all need to do something ASAP,battery_drain,,FALSE,Latest update did not fix the battery issue.
+89,41634,@125160 @125161 So I can't  use my phone now. Ffs!! Completely frozen and won't let me reboot! Fuckin update ISO 11.1 @115858,update_performance_or_crash,,TRUE,Phone is completely frozen and cannot reboot after update.
+90,38873,@AppleSupport Can we speak via email? __email__,device_issue_other,,TRUE,Requests direct support by email; issue is unspecified.
+91,58176,@AppleSupport I couldn’t access App Store neither iPhone nor Mac. But everything restored few mins ago. Thank you.,app_or_media_behavior,,FALSE,App Store access failed but restored on its own.
+92,51696,@AppleSupport  I️ swear y’all need to fix(i ) this like right fucking now I️ can’t even message my manager on group me without looking dumb,app_or_media_behavior,,FALSE,Letter I bug prevents normal messaging.
+93,61081,@116333 I paid $849.00 for an iPhone 6s Plus and I can't even get phone reception.  I hate your company.  Rip offs.,device_issue_other,,TRUE,Paid for phone but cannot get cellular reception.
+94,38258,"@AppleSupport the charging screening is now showing, now what?",device_issue_other,,FALSE,Asks what to do after charging screen appears; insufficient context.
+95,44559,@AppleSupport why music app is forcing me to subscribe Apple Music https://t.co/QnxUNmWSon,app_or_media_behavior,,FALSE,Music app appears to force Apple Music subscription.
+96,52959,"@AppleSupport With the new update, turning on wi-fi disables data and we have to manually go through settings and turn it back on !  :( Help",device_issue_other,,FALSE,Wi-Fi/data behavior changes after update.
+97,39633,@AppleSupport why is this my screen when I try to make a call. why this happen after the 10th update I’m confused. 💁🏾 https://t.co/jkA8umq3xi,device_issue_other,,TRUE,Problem occurs when trying to make a call after an update.
+98,34586,@applesupport The latest version of iTunes for Windows keeps asking for my password and sometimes gets stuck in a loop.,app_or_media_behavior,,TRUE,Windows iTunes repeatedly asks for password and can get stuck in a loop.
+99,43329,"@AppleSupport No, no error messages. The app ‘freezes’ all the time since the iOS11 update. I don’t get the logic of the listen now tab at all.",update_performance_or_crash,,FALSE,App freezes repeatedly since iOS 11 update.
+100,58166,Sick of this I️ problem. Fix it @115858!!,app_or_media_behavior,,FALSE,Vague complaint about the I text-rendering problem.
+101,50023,@AppleSupport Why does the method posted today on changing your Apple ID from a third party address to an iCloud address not work? https://t.co/7UC8DUYmvy,account_or_verification,,TRUE,Apple ID conversion method does not work.
+102,39673,@124684 @AppleSupport I can confirm that the battery is still piss poor. Down to 43% and hardly used it today! 😩,battery_drain,,FALSE,Battery remains very poor despite light use.
+103,61336,@AppleSupport could you please tell me how do I reserve an iPhone X at 6am in the morning online? As I went into 2 branches in Manchester and was told to reserve one from online. Thank you,device_issue_other,,TRUE,Needs help reserving an iPhone X online after being redirected by stores.
+104,32401,Hey @AppleSupport I heard I can change my Apple ID to my @798 email but when I try it says nope. What gives? Spent an hour signing out &amp; in.,account_or_verification,,TRUE,Cannot change Apple ID email address despite instructions.
+105,49188,&amp; what the fuck is up with these boxes Apple really smoking mines. If you don’t want me to be a Apple member your doing great sweety @115858,app_or_media_behavior,,FALSE,Boxes/symbols issue; likely the text-rendering bug.
+106,36032,@applesupport Upgraded to #macOS #HighSierra - noticed that my iMessages/SMS are coming in out of order. Appear fine on my iPhone. Thoughts?,app_or_media_behavior,,FALSE,iMessages/SMS arrive out of order on Mac after High Sierra.
+107,54456,"@116333  why can’t i rearrange my apps on my homescreen ? With 5,8 inch screen it don’t makes sense to reach at the top of my phone !",device_issue_other,,FALSE,Question about rearranging apps on the home screen.
+108,38235,See right here!!! What’s the question mark? I️ didn’t put that there!!! @AppleSupport https://t.co/QswmjxiQZ5,app_or_media_behavior,,FALSE,Unexpected question-mark character in text.
+109,47998,@AppleSupport @126731 I️ am also having this problem! And I’ve contacted Apple support and neither rep seemed to have a clue how to fix it!,app_or_media_behavior,,TRUE,Same recurring I-symbol problem remains unresolved after contacting support.
+110,52273,@AppleSupport can you please help me,device_issue_other,,TRUE,Generic request for help with no issue details.
+111,50042,Hey @AppleSupport iOS 11 sucks none of my apps can update anymore,update_performance_or_crash,,FALSE,Apps cannot update after iOS 11.
+112,35243,@AppleSupport @123678 @AppleSupport oh dear @123678 still not co-oping with iCloud in ios11.1 really really poor show. #garageband,app_or_media_behavior,,FALSE,GarageBand is not cooperating with iCloud after iOS update.
+113,5849,I updated to iOS 11 and my iPhone 6 stopped connecting to wi-fi. Already restored the phone and the network connections @AppleSupport,device_issue_other,,TRUE,iPhone stopped connecting to Wi-Fi even after restore/network reset.
+114,35287,@AppleSupport Phone was 😴 Apple Watch ⌚️ 👌. I was wearing during workout this a.m.  usually get all Twitter notifications,app_or_media_behavior,,FALSE,Apple Watch/Twitter notifications are not arriving as usual.
+115,31940,HEY @115858 WHY IS MY BLUETOOTH CONSTANTLY TURNING ITSELF ON BY ITSELF I WANT ANSWERS,device_issue_other,,FALSE,Bluetooth keeps turning itself on unexpectedly.
+116,44608,@AppleSupport And i cant fix it i had to turn off auto correct and check spelling,app_or_media_behavior,,FALSE,AutoCorrect/spelling behavior requires being disabled to work around issue.
+117,57486,@AppleSupport how come my iPhone still says preparing for shipment even though it’s already been shipped?,device_issue_other,,TRUE,Shipment status remains 'preparing' despite shipment already occurring.
+118,8561,@AppleSupport  hey what’s going on with the letter I . When i start to. Type this happens below https://t.co/jbNZfUwkzL,app_or_media_behavior,,FALSE,Letter I triggers malformed output when typing.
+119,57500,"@AppleSupport 7 Plus, iOS 11",device_issue_other,,FALSE,Only identifies device/version.
+120,5837,@AppleSupport Yes. Sorry. I️ just watched a video about 11.2 beta. 11.1 When I️ type the letter Eye I️ happens https://t.co/bUBElgADue,app_or_media_behavior,,FALSE,Letter I typing issue on iOS 11.1.
+121,745,@AppleSupport I need the software update urgently. The battery lasts literally half a day 🙍🏼🙁@AppleSupport,battery_drain,,FALSE,Battery lasts only half a day; asks for software update.
+122,15308,Yo @AppleSupport why is this happening to everyone I️ know?? Pls fix this issue. Anyone else? 🙄🙄🙄 https://t.co/XSuGhCN8c8,app_or_media_behavior,,FALSE,Widespread issue implied; likely the recurring text-rendering bug.
+123,50070,@AppleSupport 😰,device_issue_other,,TRUE,Emoji-only message gives no actionable issue.
+124,34703,@115858 My Q was: How was the delivery date in the cart 2 wks earlier than what’s on my receipt? #ServiceRecovery #SupplyChain #1standlastpreorder,device_issue_other,,TRUE,Delivery date differs between cart and receipt; order issue.
+125,34581,"@AppleSupport Basically for a chat to be opened from call log, the message app should be opened/running in background. Otherwise, it takes twice.",app_or_media_behavior,,FALSE,Message app must be running in background for expected call-log chat behavior.
+126,23107,"@AppleSupport All website. I can record with audio. The recording are playing well in Photos and the sound is ok. But when I import them in iMovie, the sound doesn’t follow. Only if I was in Safari when I made the screen recording",app_or_media_behavior,,FALSE,Imported iMovie recording loses audio outside a specific workflow.
+127,31918,@115858 the latest update is very glitchy! Did you do away with the double tap home button to bring the screen down for the PLUS? #notworking,device_issue_other,,FALSE,Double-tap home-screen reachability behavior appears missing after update.
+128,58847,"@AppleSupport 4G. In fact, my internet connection was used to create this tweet at the time so I have to assume the network was not the cause.",device_issue_other,,FALSE,User clarifies that 4G/network was available; context is incomplete.
+129,58835,@AppleSupport ANSWER MEEEEE IM FED UP LOL,device_issue_other,,TRUE,Generic urgent request with no issue details.
+130,4915,"Don’t complain a lot about @115858 but when battery iphone goes down 50% after using your phone for 30 minutes .....
+Problems since update 11",battery_drain,,FALSE,Battery drops 50% in 30 minutes after update.
+131,41647,@AppleSupport please tell me my iphone is freezing every 10 minutes since the new update I’m having to restart it constantly 😡😡😡,update_performance_or_crash,,FALSE,iPhone freezes every 10 minutes after update and needs restarts.
+132,1763,"@AppleSupport Thanks, thing is I still have like 81 cents in credit and won't let me do that until I have zero credit",account_or_verification,,FALSE,Account/store credit prevents requested action until balance reaches zero.
+133,53586,What is wrong with my I️ @AppleSupport and my “it” turns into I.T ......what are y’all doing with these phones?,app_or_media_behavior,,FALSE,Keyboard/text rendering transforms 'it' unexpectedly.
+134,15311,@115858 I’m going to need you guys to fix my iMessage and FaceTime..it’s not activating...spent an hour on the phone with support,app_or_media_behavior,,TRUE,iMessage and FaceTime activation failure persists after an hour with support.
+135,50074,@AppleSupport What did i wrong? Any version of ios 11 drains my battery. I have to charge It twice a day. Apple please....,battery_drain,,FALSE,iOS 11 causes battery drain requiring two charges per day.
+136,36117,@AppleSupport @116333 @123857  Should I be concerned yet? My iPhone X left China and went to Hong Kong and hasn’t left yet I live in LA,device_issue_other,,TRUE,iPhone X shipment appears stalled between locations.
+137,31436,"@115858 trying to cancel an online order, each time I login i'm told I don't have access to the order.",account_or_verification,,TRUE,Cannot access/cancel an online order because login denies access.
+138,41705,@AppleSupport Once I removed two step authentication it all went back to normal - thanks for responding,account_or_verification,,FALSE,Two-step authentication was removed and issue resolved.
+139,32383,Hey @AppleSupport this is what happened after 10.13.1 please advise.!! https://t.co/ak14ZArtkf,update_performance_or_crash,,TRUE,Reports an unspecified problem immediately after macOS update.
+140,61323,@AppleSupport I accidentally bought something is there anyway I can get a refund,account_or_verification,,TRUE,Accidental purchase and refund request.
+141,50808,@AppleSupport iOS 11.0.3. No error msg just sits their blank,update_performance_or_crash,,FALSE,iOS 11.0.3 screen/app appears blank with no error.
+142,52258,@AppleSupport There’s an update available for 11.1 but friends that already updated are experiencing the same issue.,update_performance_or_crash,,FALSE,Issue persists despite a newer update being available.
+143,38207,@AppleSupport Hi there! I got an issue with iMessage and Facetime... using the latest iOS on an iphone 6.,app_or_media_behavior,,FALSE,iMessage and FaceTime issue on latest iOS.
+144,31408,@AppleSupport the I️ keeps autocorrecting to a strange symbol,app_or_media_behavior,,FALSE,Letter I autocorrects to a strange symbol.
+145,25266,@AppleSupport Latest,device_issue_other,,FALSE,Only says 'Latest'; insufficient context.
+146,35211,"@AppleSupport why is the new update savaging my battery please, 100% to 1% in the space of an hour, get ya shit together",battery_drain,,FALSE,Battery drops from 100% to 1% in about an hour after update.
+147,36636,"@AppleSupport Freezing basically all of the time. Apps are messing up, if i turn on airplane mode and then turn it off i can’t get service without restart",update_performance_or_crash,,TRUE,Frequent freezing plus loss of service after airplane-mode toggle.
+148,5841,@AppleSupport Tried I️t and I️t still doesn’t work,app_or_media_behavior,,FALSE,Attempted fix did not resolve the issue; context indicates app/keyboard behavior.
+149,31937,@AppleSupport @AppleSupport whenever I type the letter “i” it auto corrects to a “a ?” What is going on!????,app_or_media_behavior,,FALSE,Letter I autocorrects to malformed A/question-mark output.
+150,23115,@AppleSupport Thanks! But it used to be so nice when I could limit the number of episodes downloaded but still have some pre-downloaded for flights n things. Is the setting coming back?,app_or_media_behavior,,FALSE,Question about missing podcast download-limit setting.
+151,61060,@115858 where tf is the update that fixes the glitches from the last update because I’m tired of not being able to use the letter “I️”,app_or_media_behavior,,FALSE,Waiting for an update to fix the I-typing glitch.
+152,2631,"@AppleSupport iPhone 7+, iOS 11.1",device_issue_other,,FALSE,Only identifies iPhone 7 Plus and iOS version.
+153,52986,@AppleSupport excuse me https://t.co/Ci41SFmxWy,device_issue_other,,TRUE,Image/link only; issue cannot be determined from text.
+154,4875,Come on @AppleSupport #ios11.1  Same bug as before. Numbers disappear when entering info. Video below. #iosproblems https://t.co/eKirAn2Mam,app_or_media_behavior,,FALSE,Numbers disappear while entering information; recurring UI/input bug.
+155,31441,@AppleSupport can you tell me why my Apple tv4 with screen saver set to never update will suddenly have new a “video” in the aerial views?,app_or_media_behavior,,FALSE,Apple TV aerial screensaver shows unexpected new video.
+156,50040,@115858 fix this I️ !!!!,app_or_media_behavior,,FALSE,Explicit request to fix the I-symbol glitch.
+157,29558,@AppleSupport your new iOS slowdown my phone and delayed everything. @116333 you should know by now that some folks works with their phone and you can messe up people work. Test the damn thing before lunch it. Or come up with a big warning “it slow down 6.7,update_performance_or_crash,,FALSE,New iOS significantly slows phone and delays actions.
+158,56951,@115858 can you tell me when when I type the letter “I” some damn symbols pop up like I’m out here coding and doing a MySpace edit 🤨,app_or_media_behavior,,FALSE,Typing I produces unexpected symbols.
+159,31426,@AppleSupport iOS11 I’ve tried resetting the keyboard it didn’t work.,app_or_media_behavior,,FALSE,Keyboard reset did not fix the iOS 11 input issue.
+160,51681,All of my pictures magically got deleted somehow. @AppleSupport??? What the shit? I go from 3K to 600 fuck is up?,device_issue_other,,TRUE,Large-scale photo deletion is a data-loss concern.
+161,41685,"@AppleSupport iPhone is getting stuck and slow . Seriously, it was fine up until a week ago. Any tips? Thanks for responding. It’s not that old 😰",update_performance_or_crash,,FALSE,iPhone is slow and gets stuck after previously working normally.
+162,39603,@AppleSupport 11.0.3,device_issue_other,,FALSE,Only provides iOS version.
+163,32376,"Oye @115858, muy bonitos tus nuevos emojis pero, ¿para cuando el poder desactivar (REAL) el Wifi y el Bluetooth desde el CC?",device_issue_other,,FALSE,Question about fully disabling Wi-Fi/Bluetooth from Control Center.
+164,37665,"iOs 11 is a mess. My iTunes is a mess. Fix up, @115858.",update_performance_or_crash,,FALSE,General iOS 11/iTunes malfunction complaint.
+165,32428,Amma asking @2084: Can you fix my @115858 thumbprint for me? I think my thumb has changed from washing dishes.,account_or_verification,,TRUE,Touch ID/fingerprint is not working reliably.
+166,35344,"Dear @AppleSupport I have an iPhone 7 &amp; iTunes, both genuine. So why do I always get this message when I sync? Hope you can help. Thanks. https://t.co/QgJ14liJDw",device_issue_other,,FALSE,iTunes sync displays an unexplained message/error.
+167,17290,"So @115858 randomly deleted over 3,000 photos from my phone. Wow wtf!!",device_issue_other,,TRUE,Thousands of photos reportedly deleted; possible data loss.
+168,41627,"@AppleSupport Rear camera, (opposite side of the screen) . iPhone 7 Plus",device_issue_other,,TRUE,Only says rear camera on iPhone 7 Plus; issue details are missing.
+169,1789,@AppleSupport No I had 11.0.3 but now it says 11.1 update so ima go ahead and do that,device_issue_other,,FALSE,Only discusses moving from iOS 11.0.3 to 11.1.
+170,56953,@AppleSupport iOS 11.1,device_issue_other,,FALSE,Only identifies iOS 11.1.
+171,58274,"@AppleSupport Hey, I just updated my Late 2012 Mac Mini to High Sierra and now my second monitor doesn't work (only a black screen that will show my cursor) need help fixing this ASAP! Thanks in advance.",device_issue_other,,TRUE,Second monitor fails after High Sierra update.
+172,1787,@AppleSupport Worked 👌🏽,device_issue_other,,FALSE,Issue appears resolved.
+173,11141,@115858 got people out here looking crazy with this damn glitch!!! Fix this shit now!!!,app_or_media_behavior,,FALSE,Vague complaint about a glitch; likely recurring text/UI issue.
+174,59591,My home button won’t go home but I can still double click to close out apps. HELP @AppleSupport,device_issue_other,,TRUE,Home button is malfunctioning.
+175,41616,@AppleSupport The current one 11.1,device_issue_other,,FALSE,Only identifies current version 11.1.
+176,35308,"@116333 Hi,can you please update iOS software to 11.2 because I am facing a lots of issues with the latest version iOS 10.1",update_performance_or_crash,,FALSE,Requests newer iOS because of multiple issues with current version.
+177,10679,Depois da ultima atualizado do IOS a bateria do IPhone 6 tá durando quase nada @115858 @AppleSupport,battery_drain,,FALSE,iPhone 6 battery became very short-lived after iOS update.
+178,38212,"Is anyone else’s phone making these boxes and shit ? 
+@AppleSupport help lol https://t.co/1Ztno66URp",app_or_media_behavior,,FALSE,Phone displays unexpected boxes/symbols.
+179,50820,@AppleSupport I have Iphone 7 updated to ios 11.1. After the news IOS released this year battery problem raised.,battery_drain,,FALSE,Battery problem appeared after iOS 11.1.
+180,5823,@115858 creates amazing technology..... but talk to text still messes up 90% of what I will it to type..... #fixyourcrap,app_or_media_behavior,,FALSE,Dictation/talk-to-text produces incorrect transcription.
+181,13588,Why do I need a sim card when I’m joined to the WiFi? I’m only using this phone to test websites. @AppleSupport https://t.co/xdINQXPvEX,device_issue_other,,FALSE,Question about SIM requirement while connected to Wi-Fi.
+182,53538,"@AppleSupport Major security breach on iCloud evident - any issues reported? Sign-in and got other people’s information, books, music etc etc",account_or_verification,,TRUE,Potential iCloud security breach involving other users' information.
+183,32414,@AppleSupport I keep getting a question mark inside a box?? I️ updated my phone and it’s still doing it. 🤦🏽‍♀️,app_or_media_behavior,,FALSE,Question-mark-in-box appears after update.
+184,43378,Why every time I️ type I️ it’s a question mark @AppleSupport,app_or_media_behavior,,FALSE,Letter I becomes a question mark.
+185,2676,@AppleSupport HELP ME. I have a problem with my iPhone 7😑,device_issue_other,,TRUE,Generic but explicit iPhone 7 problem; insufficient detail.
+186,23178,@AppleSupport upgraded to 11.1.2 and iTunes Player won’t work on iPhone 7. ANNOYING,app_or_media_behavior,,FALSE,iTunes Player stops working after iOS update.
+187,39644,@AppleSupport hey guys any news on why Apple Pay isnt working. Is this a global issue or just UK?,account_or_verification,,TRUE,Apple Pay is not working; asks whether issue is regional/global.
+188,8435,@AppleSupport I need an actual human to help me,device_issue_other,,TRUE,Explicitly requests a human agent.
+189,38218,"@AppleSupport @115858 Depende como @AppleSupport responda esto perderán un cliente (+familia) y prescriptor desde hace más de 15 años, usuario de toda la gama",device_issue_other,,TRUE,Customer threatens to leave; issue itself is unspecified.
+190,12569,@115858 what’s up with my “I️” being replaced with some bs in my messages? Makes me want to throw the whole phone away.,app_or_media_behavior,,FALSE,Letter I is replaced by malformed characters in messages.
+191,6928,@AppleSupport my iPhone is a fully up to date so why does my phone keep freezing 🙃???,update_performance_or_crash,,FALSE,Fully updated iPhone continues freezing.
+192,11131,Is anyone doing bug fixing @115858  anymore? I have a whole zoo of them on my iPhone and iMac that could be tamed!,update_performance_or_crash,,TRUE,Multiple unresolved bugs across iPhone and iMac.
+193,61295,@AppleSupport iOS 10.,device_issue_other,,FALSE,Only says iOS 10.
+194,32363,@AppleSupport It’s glitching when I try to erase pictures or go onto new apps,app_or_media_behavior,,FALSE,Apps/picture deletion UI is glitching.
+195,35311,This new @115858 update sucks! I’m not getting any texts in group chats and it’s terribly slow!,update_performance_or_crash,,FALSE,Update causes group-chat text failures and severe slowness.
+196,35312,@123695 @115858 My screen is all messed up. Won’t let me type right,device_issue_other,,TRUE,Screen/input is severely malfunctioning and prevents typing.
+197,32400,@AppleSupport Yes. I read and did that. I get a message that says I cannot change my Apple ID to an email ending in @798. Which is contrary to the document,account_or_verification,,TRUE,Apple ID email-change restriction conflicts with documentation.
+198,56944,I hate the update to the podcast app on iOS11. The interface is really confusing and unorganized @115858 @318,app_or_media_behavior,,FALSE,Podcast app update caused confusing/unorganized interface.
+199,40452,@AppleSupport All sounds yes when I go to the settings to test it it works but any other that setting no. And I did restarted it and still doesnt work,device_issue_other,,TRUE,Audio works in settings but not elsewhere despite restart.
+200,34643,"Ffs @115858 Ever since I did the update my I phone everyting is moving slow like a man on ketamine 
+Sort it out will ya",update_performance_or_crash,,FALSE,Phone became very slow after update.

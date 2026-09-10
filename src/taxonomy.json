@@ -1,0 +1,7 @@
+{
+  "update_performance_or_crash": "OS update causes slowness, freezing, app crashes, Wi-Fi instability, or general post-update degradation.",
+  "battery_drain": "Abnormally fast battery drain or reduced battery life.",
+  "app_or_media_behavior": "Specific app/media/multitasking behavior affected by device/OS.",
+  "account_or_verification": "Verification code, login/account access, or similar account-level issue.",
+  "device_issue_other": "Apple device problem not covered by the above categories."
+}
